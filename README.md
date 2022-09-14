@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world👋, my name is Petar from Bulgaria, student in Technical university - Varna as Master's degree Electrical Engineer. Ever since I was child, I in love in math and logical thinking and that's how I decided to enroll in a programming courses. Currently learning JavaScript in SoftUni. My goal is to become Full Stack Developer.  
+Hello world👋, my name is Petar from Bulgaria, student in Technical university - Varna as Master's degree Electrical Engineer. Ever since I was child, I'am in love in math and logical thinking and that's how I decided to enroll in a programming courses. Currently learning JavaScript in SoftUni. My goal is to become Full Stack Developer.  
 
 
 ## 🌐 Socials:
