@@ -1,4 +1,4 @@
-👋 Hi there! I'm Peter, a MERN developer with a power engineering degree and a genuine passion for crafting exceptional web applications. Welcome to my profile! 👨‍💻
+👋 Hi there! I'm Petar, a MERN developer with a power engineering degree and a genuine passion for crafting exceptional web applications. Welcome to my profile! 👨‍💻
 
 🔥 About Me:
 I'm a passionate MERN developer with a love for creating web applications and solving real-world problems through code. My journey in the world of software development began with curiosity, and since then, I've been on an exciting learning adventure, constantly honing my skills and staying up-to-date with the latest technologies and best practices.
