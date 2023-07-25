@@ -1,10 +1,8 @@
-👋 Hi there! I'm Petar, a MERN developer with a power engineering degree and a genuine passion for crafting exceptional web applications. Welcome to my profile! 👨‍💻
+👋 Hello there! I'm Petar, a highly motivated MERN developer with a Electrical engineer master degree. Welcome to my profile! 👨‍💻
 
-🔥 About Me:
-I'm a passionate MERN developer with a love for creating web applications and solving real-world problems through code. My journey in the world of software development began with curiosity, and since then, I've been on an exciting learning adventure, constantly honing my skills and staying up-to-date with the latest technologies and best practices.
+🔥 About Me: I am truly passionate about crafting exceptional web applications and solving real-world problems through code. My journey into the world of software development was sparked by curiosity, and ever since, I've embarked on an exciting learning adventure, continuously refining my skills and keeping abreast of the latest technologies and best practices.
 
-💼 What I Do:
-I specialize in full-stack web development, utilizing the power of the MERN stack to build robust and scalable applications. From designing intuitive user interfaces with React.js to crafting efficient server-side APIs with Node.js and Express.js, and leveraging MongoDB to handle data storage, I enjoy every step of the development process.
+💼 What I Do: My expertise lies in full-stack web development, where I harness the power of the MERN stack to build robust and scalable applications. Whether it's designing intuitive user interfaces with React.js, developing efficient server-side APIs using Node.js and Express.js, or utilizing MongoDB for seamless data storage, I take pleasure in every aspect of the development process.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/NightSentinel#7390) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//profile.php?viewas=100000686899395&id=100000527390411) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@NightSent1nel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petar-panajotov-a16250273/)
