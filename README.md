@@ -1,5 +1,7 @@
+👋 Hi there! I'm Peter, a MERN developer with a power engineering degree and a genuine passion for crafting exceptional web applications. Welcome to my profile! 👨‍💻
+
 🔥 About Me:
-I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer with a love for creating web applications and solving real-world problems through code. My journey in the world of software development began with curiosity, and since then, I've been on an exciting learning adventure, constantly honing my skills and staying up-to-date with the latest technologies and best practices.
+I'm a passionate MERN developer with a love for creating web applications and solving real-world problems through code. My journey in the world of software development began with curiosity, and since then, I've been on an exciting learning adventure, constantly honing my skills and staying up-to-date with the latest technologies and best practices.
 
 💼 What I Do:
 I specialize in full-stack web development, utilizing the power of the MERN stack to build robust and scalable applications. From designing intuitive user interfaces with React.js to crafting efficient server-side APIs with Node.js and Express.js, and leveraging MongoDB to handle data storage, I enjoy every step of the development process.
