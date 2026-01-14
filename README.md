@@ -1,8 +1,6 @@
-👋 Hello there! I'm Petar, a highly motivated MERN developer with a Electrical engineer master degree. Welcome to my profile! 👨‍💻
+👋 Hello there! I'm Petar, web developer with over 2 years of professional experience and 5+ years of hands-on JavaScript development. I specialize in building and scaling production SaaS applications, bridging the gap between complex business logic and seamless user experiences 👨‍💻
 
 🔥 About Me: I am truly passionate about crafting exceptional web applications and solving real-world problems through code. My journey into the world of software development was sparked by curiosity, and ever since, I've embarked on an exciting learning adventure, continuously refining my skills and keeping abreast of the latest technologies and best practices.
-
-💼 What I Do: My expertise lies in full-stack web development, where I harness the power of the MERN stack to build robust and scalable applications. Whether it's designing intuitive user interfaces with React.js, developing efficient server-side APIs using Node.js and Express.js, or utilizing MongoDB for seamless data storage, I take pleasure in every aspect of the development process.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/NightSentinel#7390) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//profile.php?viewas=100000686899395&id=100000527390411) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@NightSent1nel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petar-panajotov-a16250273/)
